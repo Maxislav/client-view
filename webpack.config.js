@@ -11,7 +11,7 @@ module.exports = function (env, args) {
   return {
     entry: {
       app: [
-        './src/index.ts',
+        './src/app/index.ts',
       ]
     },
     output: {

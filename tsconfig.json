@@ -9,11 +9,13 @@
     "declaration": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
-  },
 
+  },
   "include": [
     "src/**/*",
     "./declaration.ts"
   ],
-  "exclude": [     "node_modules/**"   ]
+  "exclude": [
+    "node_modules/**"
+  ]
 }

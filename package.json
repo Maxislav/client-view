@@ -17,6 +17,7 @@
     "less": "^4.1.2",
     "less-loader": "^10.0.1",
     "minify-bundled-webpack-plugin": "0.0.3",
+    "rxjs": "^7.5.5",
     "string-template-parser": "^1.2.6",
     "style-loader": "^3.3.0",
     "terser-webpack-plugin": "^5.2.4",

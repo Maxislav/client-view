@@ -13,6 +13,7 @@ import {
     timeout
 } from 'rxjs';
 import { autobind } from './decorator/autobind';
+import { LocalStorageService } from './local-storage.service';
 
 let i = 0;
 
